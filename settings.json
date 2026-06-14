@@ -8,7 +8,7 @@
   "server": {
     "ip": "LSSMP.aternos.me",
     "port": 51275,
-    "version": "1.21.11 (132)",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
